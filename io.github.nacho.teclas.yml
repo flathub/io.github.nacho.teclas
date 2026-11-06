@@ -21,7 +21,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/nacho/teclas.git
-        commit: a021822fb59264194c49eae5d3c8e21dd28847fe
+        commit: 1c22d13f45fead025a2d5afedd79f4ae81d6263a
       # cargo-sources.json needs to be placed before the
       # copying, otherwise the config will just be empty
       - cargo-sources.json
